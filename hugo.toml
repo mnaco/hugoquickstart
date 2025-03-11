@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:5500/public/'
+baseURL = 'https://hugoquickstart.vercel.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
