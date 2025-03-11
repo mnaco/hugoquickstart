@@ -6,8 +6,15 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Mar 2025 22:48:08 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 23:12:13 +0100</lastBuildDate>
     <atom:link href="https://hugoquickstart.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dev Post</title>
+      <link>https://hugoquickstart.vercel.app/posts/dev-post/</link>
+      <pubDate>Tue, 11 Mar 2025 23:12:13 +0100</pubDate>
+      <guid>https://hugoquickstart.vercel.app/posts/dev-post/</guid>
+      <description>&lt;h3 id=&#34;this-is-a-test-to-check-the-branch-deployment&#34;&gt;This is a test to check the branch deployment&lt;/h3&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>https://hugoquickstart.vercel.app/posts/my-first-post/</link>
