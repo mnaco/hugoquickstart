@@ -5,3 +5,4 @@ title = 'Dev Post'
 +++
 
 ### This is a test to check the branch deployment
+- test dev options
